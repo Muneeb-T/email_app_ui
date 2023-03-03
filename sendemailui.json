@@ -1,0 +1,14 @@
+{
+    "displayName": "SendEmailUI",
+    "appName": "sendemailui",
+    "description": "This is backend for send email app",
+    "lastModified": "2023-03-03T05:15:25.482Z",
+    "imgSourcePath": "",
+    "version": "1.0.0",
+    "appType": "uiOnly",
+    "templateName": "blank",
+    "createDate": "2023-03-03T05:14:50.501Z",
+    "analyticsId": "b4eea3f7-b829-e109-d8cb-63618a41dd95",
+    "createdStudioVersion": "9.1.1",
+    "oldAppName": "sendemailapi"
+}
